@@ -2,8 +2,6 @@
 
 Eu sou o Matheus, desenvolvedor web em treinamento.
 
-
---
 Tecnologias que estou aprendendo:
 --
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
